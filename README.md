@@ -23,8 +23,7 @@ The model accuracy is evaluated using its RMSE on the test set.
 * model selected using TPOT (TPOT_regression.ipynb, exported file: TPOT_regression.py).
 RandomForestRegressor
 
-EDA and the baseline model were run locally in the environment specified by the description file:
-...
+EDA and the baseline model were run locally in the environment specified in <code>environment.yml</code>.
 
 AutoML model selection was performed on the servers of GoogleColab. 
 
